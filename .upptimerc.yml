@@ -25,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /amsterdam-uptime
   logoUrl: https://api.data.amsterdam.nl/api/gemeente_Amsterdam_logo.svg
-  name: Upptime
+  name: Amsterdam Uptime
   introTitle: "Uptime status pagina voor Gemeente Amsterdam APIs"
   thene: light
   navbar:
