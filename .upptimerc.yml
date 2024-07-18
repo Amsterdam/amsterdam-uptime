@@ -5,19 +5,19 @@ user-agent: amsterdam-uptime # Make sure this is unique to avoid conflicts
 
 sites:
   - name: DSO-API
-    url: https://api.data.amsterdam.nl/v1/aardgasverbruik/mra_liander/?_format=json
+    url: $SITE_URL_DSOAPI
     maxResponseTime: 3000
   - name: Geosearch
-    url: https://api.data.amsterdam.nl/geosearch/?datasets=bedrijveninvesteringszones%2Fbedrijveninvesteringszones&lat=52.365804&lon=4.8963802&radius=25
+    url: $SITE_URL_GEOSEARCH
     maxResponseTime: 3000
   - name: Atlas
-    url: https://api.data.amsterdam.nl/atlas/search/adres/?format=json&q=Oudeschans+31+X
+    url: $SITE_URL_ATLAS
     maxResponseTime: 3000
   - name: DSO-API Catalog
-    url: https://api.data.amsterdam.nl/api/
+    url: $SITE_URL_CATALOG
     maxResponseTime: 3000
   - name: Mapserver
-    url: https://map.data.amsterdam.nl/service/?REQUEST=GetMap&FORMAT=image%2Fpng&SRS=EPSG:28992&BBOX=121551.5257836096,488649.3498838544,121704.2287054483,488802.0528056931&VERSION=1.1.0&STYLES=&SERVICE=WMS&WIDTH=256&HEIGHT=256&TRANSPARENT=TRUE&LAYERS=topografie   
+    url: $SITE_URL_MAPSERVER
     maxResponseTime: 3000
 
 status-website:
