@@ -1,7 +1,7 @@
 # Change these first
 owner: amsterdam # Your GitHub organization or username, where this repository lives
 repo: amsterdam-uptime # The name of this repository
-user-agent: amsterdam-uptime # Make sure this is unique to avoid conflicts
+user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 
 sites:
   - name: DSO-API
@@ -42,3 +42,12 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 */2 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */12 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
