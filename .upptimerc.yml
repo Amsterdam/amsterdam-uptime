@@ -7,14 +7,20 @@ sites:
   - name: DSO-API
     url: $SITE_URL_DSOAPI
     maxResponseTime: 3000
+  - name: DSO-API Catalog
+    url: $SITE_URL_CATALOG
+    maxResponseTime: 3000    
+  - name: API Keys
+    url: $SITE_URL_APIKEYS
+    maxResponseTime: 3000
+  - name: Amsterdam Schema
+    url: $SITE_URL_SCHEMAS
+    maxResponseTime: 3000    
   - name: Geosearch
     url: $SITE_URL_GEOSEARCH
     maxResponseTime: 3000
   - name: Atlas
     url: $SITE_URL_ATLAS
-    maxResponseTime: 3000
-  - name: DSO-API Catalog
-    url: $SITE_URL_CATALOG
     maxResponseTime: 3000
   - name: Mapserver
     url: $SITE_URL_MAPSERVER
