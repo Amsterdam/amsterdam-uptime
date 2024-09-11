@@ -1,7 +1,7 @@
 url: $SITE_URL_SCHEMAS
-status: down
-code: 404
-responseTime: 419
-lastUpdated: 2024-09-11T14:27:19.732Z
+status: up
+code: 200
+responseTime: 541
+lastUpdated: 2024-09-11T14:35:50.605Z
 startTime: 2024-09-10T11:50:56.851Z
 generator: Upptime <https://github.com/upptime/upptime>
