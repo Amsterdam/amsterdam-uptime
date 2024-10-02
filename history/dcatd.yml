@@ -1,7 +1,7 @@
 url: $SITE_URL_DCATD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-02T04:08:35.732Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2024-10-02T05:07:33.138Z
 startTime: 2024-08-27T17:18:23.434Z
 generator: Upptime <https://github.com/upptime/upptime>
