@@ -6,10 +6,10 @@ user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
 sites:
   - name: DSO-API
     url: $SITE_URL_DSOAPI
-    maxResponseTime: 3000
+    maxResponseTime: 4000
   - name: DSO-API Catalog
     url: $SITE_URL_CATALOG
-    maxResponseTime: 3000    
+    maxResponseTime: 4000    
   - name: API Key Server
     url: $SITE_URL_APIKEYS
     maxResponseTime: 3000
@@ -25,9 +25,12 @@ sites:
   - name: Mapserver
     url: $SITE_URL_MAPSERVER
     maxResponseTime: 3000
+  - name: Mapproxy
+    url: $SITE_URL_MAPPROXY
+    maxResponseTime: 3000
   - name: DCATD
     url: $SITE_URL_DCATD
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: Panoramas
     url: $SITE_URL_PANORAMAS
     maxResponseTime: 3000
