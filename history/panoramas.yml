@@ -1,7 +1,7 @@
 url: $SITE_URL_PANORAMAS
-status: degraded
+status: up
 code: 200
-responseTime: 5802
-lastUpdated: 2024-10-08T17:29:54.929Z
+responseTime: 236
+lastUpdated: 2024-10-08T17:37:26.800Z
 startTime: 2024-08-27T17:18:24.103Z
 generator: Upptime <https://github.com/upptime/upptime>
