@@ -187,19 +187,19 @@
     "url": "$SITE_URL_MAPPROXY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mapproxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 543,
-    "timeDay": 604,
-    "timeWeek": 545,
+    "timeDay": 593,
+    "timeWeek": 544,
     "timeMonth": 533,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 10
     }
   },
   {
