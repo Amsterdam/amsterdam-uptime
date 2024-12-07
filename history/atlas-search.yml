@@ -1,7 +1,7 @@
 url: $SITE_URL_ATLAS
-status: down
-code: 503
-responseTime: 149
-lastUpdated: 2024-12-07T17:03:38.374Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2024-12-07T17:13:20.373Z
 startTime: 2024-09-10T12:12:32.833Z
 generator: Upptime <https://github.com/upptime/upptime>
