@@ -1,7 +1,7 @@
 url: $SITE_URL_GEOSEARCH
-status: degraded
-code: 500
-responseTime: 28089
-lastUpdated: 2025-02-06T09:14:42.363Z
+status: down
+code: 503
+responseTime: 104
+lastUpdated: 2025-02-06T09:25:36.521Z
 startTime: 2024-08-27T17:18:17.423Z
 generator: Upptime <https://github.com/upptime/upptime>
