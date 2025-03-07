@@ -1,7 +1,7 @@
 url: $SITE_URL_DSOAPI
-status: degraded
+status: up
 code: 200
-responseTime: 16694
-lastUpdated: 2025-03-07T14:16:50.023Z
+responseTime: 500
+lastUpdated: 2025-03-07T14:27:19.594Z
 startTime: 2024-08-27T17:18:16.502Z
 generator: Upptime <https://github.com/upptime/upptime>
