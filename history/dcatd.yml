@@ -1,7 +1,7 @@
 url: $SITE_URL_DCATD
-status: degraded
+status: up
 code: 200
-responseTime: 5856
-lastUpdated: 2025-03-08T03:18:45.282Z
+responseTime: 402
+lastUpdated: 2025-03-08T03:27:18.986Z
 startTime: 2024-08-27T17:18:23.434Z
 generator: Upptime <https://github.com/upptime/upptime>
