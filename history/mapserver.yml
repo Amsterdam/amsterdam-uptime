@@ -1,7 +1,7 @@
 url: $SITE_URL_MAPSERVER
-status: degraded
+status: up
 code: 200
-responseTime: 14292
-lastUpdated: 2025-03-12T17:31:41.556Z
+responseTime: 547
+lastUpdated: 2025-03-12T17:39:21.097Z
 startTime: 2024-08-27T17:18:22.034Z
 generator: Upptime <https://github.com/upptime/upptime>
