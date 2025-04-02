@@ -28,9 +28,6 @@ sites:
   - name: Mapproxy
     url: $SITE_URL_MAPPROXY
     maxResponseTime: 3000
-  - name: DCATD
-    url: $SITE_URL_DCATD
-    maxResponseTime: 5000
   - name: Panoramas
     url: $SITE_URL_PANORAMAS
     maxResponseTime: 3000
