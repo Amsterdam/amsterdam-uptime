@@ -1,7 +1,7 @@
 url: $SITE_URL_ATLAS
-status: degraded
+status: up
 code: 200
-responseTime: 4290
-lastUpdated: 2025-06-21T18:12:38.316Z
+responseTime: 124
+lastUpdated: 2025-06-21T18:26:01.268Z
 startTime: 2024-09-10T12:12:32.833Z
 generator: Upptime <https://github.com/upptime/upptime>
