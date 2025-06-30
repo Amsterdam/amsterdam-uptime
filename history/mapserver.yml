@@ -1,7 +1,7 @@
 url: $SITE_URL_MAPSERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-30T11:20:39.694Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2025-06-30T11:29:38.661Z
 startTime: 2024-08-27T17:18:22.034Z
 generator: Upptime <https://github.com/upptime/upptime>
