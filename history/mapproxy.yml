@@ -1,7 +1,7 @@
 url: $SITE_URL_MAPPROXY
-status: down
-code: 502
-responseTime: 151
-lastUpdated: 2025-06-30T09:55:20.477Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2025-06-30T10:04:32.584Z
 startTime: 2024-10-07T13:46:51.289Z
 generator: Upptime <https://github.com/upptime/upptime>
