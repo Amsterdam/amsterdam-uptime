@@ -21,6 +21,8 @@ sites:
     maxResponseTime: 3000
   - name: Atlas Search
     url: $SITE_URL_ATLAS
+    headers:
+      - "X-Api-Key: token"
     maxResponseTime: 3000
   - name: Mapserver
     url: $SITE_URL_MAPSERVER
