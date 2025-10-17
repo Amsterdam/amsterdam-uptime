@@ -22,7 +22,7 @@ sites:
   - name: Atlas Search
     url: $SITE_URL_ATLAS
     headers:
-      - "X-Api-Key: token"
+      - "X-Api-Key: $ATLAS_API_KEY"
     maxResponseTime: 3000
   - name: Mapserver
     url: $SITE_URL_MAPSERVER
