@@ -19,14 +19,14 @@ sites:
   - name: BRP Bevragingen
     url: $SITE_URL_BRP_BEVRAGINGEN
     maxResponseTime: 3000
-  - name: BRP Acceptatie Kennisgvingen
-    url: $SITE_URL_BRP_ACC_KENNISGEVINGEN
+  - name: BRP Kennisgvingen
+    url: $SITE_URL_BRP_KENNISGEVINGEN
     maxResponseTime: 3000
   - name: BRP Acceptatie Bevragingen
     url: $SITE_URL_BRP_ACC_BEVRAGINGEN
     maxResponseTime: 3000
-  - name: BRP Kennisgvingen
-    url: $SITE_URL_BRP_KENNISGEVINGEN
+  - name: BRP Acceptatie Kennisgvingen
+    url: $SITE_URL_BRP_ACC_KENNISGEVINGEN
     maxResponseTime: 3000
   - name: Geosearch
     url: $SITE_URL_GEOSEARCH
