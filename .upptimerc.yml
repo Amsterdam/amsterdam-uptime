@@ -22,10 +22,10 @@ sites:
   - name: BRP Kennisgvingen
     url: $SITE_URL_BRP_KENNISGEVINGEN
     maxResponseTime: 3000
-  - name: BRP Acceptatie Bevragingen
+  - name: BRP Acc Bevragingen
     url: $SITE_URL_BRP_ACC_BEVRAGINGEN
     maxResponseTime: 3000
-  - name: BRP Acceptatie Kennisgvingen
+  - name: BRP Acc Kennisgvingen
     url: $SITE_URL_BRP_ACC_KENNISGEVINGEN
     maxResponseTime: 3000
   - name: Geosearch
