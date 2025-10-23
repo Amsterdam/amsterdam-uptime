@@ -44,7 +44,7 @@ sites:
     url: $SITE_URL_DATASELECTIE
     headers:
       - "X-Api-Key: $DATASELECTIE_API_KEY"
-    maxResponseTime: 30
+    maxResponseTime: 3000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
