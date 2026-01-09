@@ -1,7 +1,7 @@
 url: $SITE_URL_BRP_ACC_BEVRAGINGEN
-status: down
-code: 502
-responseTime: 396
-lastUpdated: 2026-01-09T14:09:19.270Z
+status: up
+code: 200
+responseTime: 328
+lastUpdated: 2026-01-09T14:35:54.752Z
 startTime: 2025-10-21T15:56:51.394Z
 generator: Upptime <https://github.com/upptime/upptime>
