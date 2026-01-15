@@ -1,7 +1,7 @@
 url: $SITE_URL_BRP_ACC_KENNISGEVINGEN
-status: down
-code: 502
-responseTime: 136
-lastUpdated: 2026-01-15T16:14:27.279Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2026-01-15T16:32:45.487Z
 startTime: 2025-10-21T15:56:52.201Z
 generator: Upptime <https://github.com/upptime/upptime>
