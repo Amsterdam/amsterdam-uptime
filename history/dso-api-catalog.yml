@@ -1,7 +1,7 @@
 url: $SITE_URL_CATALOG
-status: down
-code: 502
-responseTime: 157
-lastUpdated: 2026-01-19T20:21:09.315Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2026-01-19T20:35:11.997Z
 startTime: 2024-08-27T17:18:21.552Z
 generator: Upptime <https://github.com/upptime/upptime>
