@@ -187,11 +187,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "brp-kennisgvingen",
     "status": "up",
-    "uptime": "65.39%",
+    "uptime": "65.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "64.29%",
-    "uptimeYear": "65.39%",
+    "uptimeMonth": "64.39%",
+    "uptimeYear": "65.40%",
     "time": 141,
     "timeDay": 130,
     "timeWeek": 157,
@@ -296,12 +296,12 @@
     "status": "up",
     "uptime": "98.75%",
     "uptimeDay": "92.71%",
-    "uptimeWeek": "96.72%",
+    "uptimeWeek": "96.73%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "98.23%",
     "time": 1414,
     "timeDay": 2446,
-    "timeWeek": 1865,
+    "timeWeek": 1883,
     "timeMonth": 1641,
     "timeYear": 1462,
     "dailyMinutesDown": {
@@ -475,8 +475,7 @@
       "2025-03-02": 7,
       "2025-02-23": 8,
       "2025-02-19": 12,
-      "2025-02-16": 14,
-      "2025-01-26": 7
+      "2025-02-16": 14
     }
   },
   {
