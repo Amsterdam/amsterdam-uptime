@@ -1,7 +1,7 @@
 url: $SITE_URL_APIKEYS
-status: down
-code: 403
-responseTime: 294
-lastUpdated: 2026-03-21T23:28:37.007Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2026-03-21T23:41:23.724Z
 startTime: 2024-09-10T12:12:01.514Z
 generator: Upptime <https://github.com/upptime/upptime>
