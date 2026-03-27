@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.04%",
+    "uptimeWeek": "71.89%",
     "uptimeMonth": "92.11%",
     "uptimeYear": "98.78%",
     "time": 645,
@@ -157,8 +157,7 @@
       "2025-12-09": 463,
       "2025-12-08": 545,
       "2025-06-10": 45,
-      "2025-05-13": 55,
-      "2025-03-27": 9
+      "2025-05-13": 55
     }
   },
   {
@@ -312,12 +311,12 @@
     "status": "up",
     "uptime": "99.00%",
     "uptimeDay": "96.39%",
-    "uptimeWeek": "98.28%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.42%",
     "time": 1615,
     "timeDay": 1810,
-    "timeWeek": 1213,
+    "timeWeek": 1221,
     "timeMonth": 1211,
     "timeYear": 1659,
     "dailyMinutesDown": {
