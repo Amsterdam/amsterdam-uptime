@@ -1,7 +1,7 @@
 url: $SITE_URL_BRP_BEVRAGINGEN
-status: up
+status: degraded
 code: 200
-responseTime: 354
-lastUpdated: 2026-04-21T10:36:39.664Z
+responseTime: 5479
+lastUpdated: 2026-04-21T12:33:56.189Z
 startTime: 2025-10-21T15:41:52.697Z
 generator: Upptime <https://github.com/upptime/upptime>
