@@ -316,18 +316,19 @@
     "url": "$SITE_URL_GEOSEARCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geosearch",
-    "status": "degraded",
-    "uptime": "99.03%",
-    "uptimeDay": "100.00%",
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "97.78%",
-    "uptimeMonth": "95.30%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "98.38%",
     "time": 1633,
-    "timeDay": 2571,
-    "timeWeek": 1566,
+    "timeDay": 2400,
+    "timeWeek": 1551,
     "timeMonth": 1364,
     "timeYear": 1644,
     "dailyMinutesDown": {
+      "2026-05-07": 46,
       "2026-05-05": 49,
       "2026-05-03": 120,
       "2026-04-30": 73,
@@ -423,8 +424,7 @@
       "2025-11-04": 101,
       "2025-11-02": 106,
       "2025-10-31": 106,
-      "2025-10-30": 77,
-      "2025-10-28": 98
+      "2025-10-30": 77
     }
   },
   {
