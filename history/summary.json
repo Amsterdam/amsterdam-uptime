@@ -16,7 +16,6 @@
     "timeMonth": 565,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-07-24": 68,
       "2025-07-27": 12,
       "2025-10-18": 37,
       "2025-10-19": 20,
@@ -292,14 +291,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geosearch",
     "status": "degraded",
-    "uptime": "99.29%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.64%",
+    "uptime": "99.28%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "98.63%",
     "time": 1518,
     "timeDay": 2622,
-    "timeWeek": 1623,
+    "timeWeek": 1636,
     "timeMonth": 1310,
     "timeYear": 1491,
     "dailyMinutesDown": {
@@ -397,7 +396,8 @@
       "2026-07-19": 53,
       "2026-07-22": 152,
       "2026-07-21": 51,
-      "2026-07-23": 2
+      "2026-07-24": 32,
+      "2026-07-23": 45
     }
   },
   {
