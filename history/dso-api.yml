@@ -1,7 +1,7 @@
 url: $SITE_URL_DSOAPI
-status: down
-code: 503
-responseTime: 285
-lastUpdated: 2026-08-23T02:36:46.573Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2026-08-23T02:50:20.954Z
 startTime: 2024-08-27T17:18:16.502Z
 generator: Upptime <https://github.com/upptime/upptime>
