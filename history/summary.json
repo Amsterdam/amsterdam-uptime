@@ -4,16 +4,16 @@
     "url": "$SITE_URL_DSOAPI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dso-api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.04%",
     "time": 706,
-    "timeDay": 5761,
-    "timeWeek": 2443,
-    "timeMonth": 1020,
+    "timeDay": 5512,
+    "timeWeek": 2426,
+    "timeMonth": 1021,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-10-18": 37,
@@ -58,7 +58,7 @@
       "2026-08-23": 24,
       "2026-08-28": 442,
       "2026-08-27": 34,
-      "2026-08-29": 38
+      "2026-08-29": 42
     }
   },
   {
