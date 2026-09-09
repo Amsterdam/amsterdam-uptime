@@ -123,10 +123,10 @@
     "url": "$SITE_URL_SCHEMAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-schema",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.66%",
     "time": 451,
@@ -146,7 +146,8 @@
       "2026-03-01": 13,
       "2026-03-21": 13,
       "2026-07-28": 224,
-      "2026-09-01": 362
+      "2026-09-01": 362,
+      "2026-09-09": 1
     }
   },
   {
@@ -163,7 +164,7 @@
     "time": 513,
     "timeDay": 483,
     "timeWeek": 457,
-    "timeMonth": 458,
+    "timeMonth": 459,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-12-03": 55,
@@ -279,7 +280,7 @@
     "time": 252,
     "timeDay": 369,
     "timeWeek": 386,
-    "timeMonth": 400,
+    "timeMonth": 401,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-12-03": 32,
@@ -307,7 +308,7 @@
     "time": 1518,
     "timeDay": 3455,
     "timeWeek": 1628,
-    "timeMonth": 1877,
+    "timeMonth": 1881,
     "timeYear": 1504,
     "dailyMinutesDown": {
       "2026-02-08": 59,
@@ -453,7 +454,7 @@
     "time": 449,
     "timeDay": 573,
     "timeWeek": 572,
-    "timeMonth": 596,
+    "timeMonth": 597,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-10-22": 9,
@@ -484,7 +485,7 @@
     "time": 331,
     "timeDay": 615,
     "timeWeek": 654,
-    "timeMonth": 659,
+    "timeMonth": 660,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-10-24": 21,
@@ -528,7 +529,7 @@
     "time": 781,
     "timeDay": 3080,
     "timeWeek": 2544,
-    "timeMonth": 1489,
+    "timeMonth": 1492,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2025-10-23": 1,
