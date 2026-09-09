@@ -13,7 +13,7 @@
     "time": 724,
     "timeDay": 557,
     "timeWeek": 504,
-    "timeMonth": 1234,
+    "timeMonth": 1237,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-10-18": 37,
@@ -125,14 +125,14 @@
     "slug": "amsterdam-schema",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.66%",
     "time": 451,
     "timeDay": 405,
     "timeWeek": 419,
-    "timeMonth": 424,
+    "timeMonth": 425,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-12-09": 463,
@@ -147,7 +147,7 @@
       "2026-03-21": 13,
       "2026-07-28": 224,
       "2026-09-01": 362,
-      "2026-09-09": 1
+      "2026-09-09": 5
     }
   },
   {
