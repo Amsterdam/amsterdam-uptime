@@ -477,17 +477,17 @@
     "url": "$SITE_URL_PANORAMAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panoramas",
-    "status": "up",
+    "status": "degraded",
     "uptime": "96.48%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.03%",
-    "time": 401,
-    "timeDay": 7955,
-    "timeWeek": 2207,
-    "timeMonth": 1312,
-    "timeYear": 412,
+    "time": 408,
+    "timeDay": 8938,
+    "timeWeek": 2501,
+    "timeMonth": 1388,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-10-24": 21,
       "2025-10-25": 19,
@@ -518,7 +518,7 @@
       "2026-09-13": 30,
       "2026-09-14": 68,
       "2026-09-21": 5,
-      "2026-09-22": 37
+      "2026-09-22": 40
     }
   },
   {
