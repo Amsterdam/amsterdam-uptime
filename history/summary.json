@@ -6,9 +6,9 @@
     "slug": "dso-api",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.01%",
     "time": 740,
     "timeDay": 4393,
@@ -61,7 +61,7 @@
       "2026-08-29": 80,
       "2026-08-30": 50,
       "2026-09-24": 7,
-      "2026-09-25": 45
+      "2026-09-25": 61
     }
   },
   {
@@ -302,19 +302,18 @@
     "url": "$SITE_URL_GEOSEARCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geosearch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.60%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.61%",
     "time": 1534,
-    "timeDay": 5323,
-    "timeWeek": 2035,
-    "timeMonth": 1876,
+    "timeDay": 5034,
+    "timeWeek": 2018,
+    "timeMonth": 1872,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2026-02-26": 48,
       "2026-02-28": 7,
       "2026-03-01": 68,
       "2026-03-03": 103,
@@ -412,7 +411,7 @@
       "2026-09-20": 59,
       "2026-09-22": 60,
       "2026-09-24": 60,
-      "2026-09-25": 25
+      "2026-09-25": 28
     }
   },
   {
