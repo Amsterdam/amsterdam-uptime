@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dso-api",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "98.46%",
+    "uptime": "99.29%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.01%",
     "time": 740,
     "timeDay": 4393,
@@ -61,7 +61,7 @@
       "2026-08-29": 80,
       "2026-08-30": 50,
       "2026-09-24": 7,
-      "2026-09-25": 61
+      "2026-09-25": 74
     }
   },
   {
@@ -302,16 +302,16 @@
     "url": "$SITE_URL_GEOSEARCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geosearch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "98.61%",
     "time": 1534,
-    "timeDay": 5034,
-    "timeWeek": 2018,
-    "timeMonth": 1872,
+    "timeDay": 4781,
+    "timeWeek": 2001,
+    "timeMonth": 1868,
     "timeYear": 1518,
     "dailyMinutesDown": {
       "2026-02-28": 7,
@@ -411,7 +411,7 @@
       "2026-09-20": 59,
       "2026-09-22": 60,
       "2026-09-24": 60,
-      "2026-09-25": 28
+      "2026-09-25": 36
     }
   },
   {
@@ -478,17 +478,17 @@
     "url": "$SITE_URL_PANORAMAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panoramas",
-    "status": "up",
+    "status": "degraded",
     "uptime": "96.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.02%",
-    "time": 445,
-    "timeDay": 430,
-    "timeWeek": 3441,
-    "timeMonth": 1655,
-    "timeYear": 455,
+    "time": 449,
+    "timeDay": 1577,
+    "timeWeek": 3552,
+    "timeMonth": 1690,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-24": 21,
       "2025-10-25": 19,
@@ -519,7 +519,8 @@
       "2026-09-13": 30,
       "2026-09-14": 68,
       "2026-09-21": 5,
-      "2026-09-22": 107
+      "2026-09-22": 107,
+      "2026-09-25": 3
     }
   },
   {
