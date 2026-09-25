@@ -4,16 +4,16 @@
     "url": "$SITE_URL_DSOAPI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dso-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.01%",
     "time": 740,
-    "timeDay": 4393,
-    "timeWeek": 1569,
-    "timeMonth": 1361,
+    "timeDay": 4221,
+    "timeWeek": 1559,
+    "timeMonth": 1359,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-10-18": 37,
@@ -61,7 +61,7 @@
       "2026-08-29": 80,
       "2026-08-30": 50,
       "2026-09-24": 7,
-      "2026-09-25": 85
+      "2026-09-25": 90
     }
   },
   {
@@ -302,17 +302,17 @@
     "url": "$SITE_URL_GEOSEARCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geosearch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "98.61%",
     "time": 1534,
-    "timeDay": 4552,
-    "timeWeek": 1985,
-    "timeMonth": 1865,
-    "timeYear": 1518,
+    "timeDay": 4359,
+    "timeWeek": 1971,
+    "timeMonth": 1862,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2026-03-01": 68,
       "2026-03-03": 103,
@@ -410,7 +410,7 @@
       "2026-09-20": 59,
       "2026-09-22": 60,
       "2026-09-24": 60,
-      "2026-09-25": 42
+      "2026-09-25": 44
     }
   },
   {
@@ -477,16 +477,16 @@
     "url": "$SITE_URL_PANORAMAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panoramas",
-    "status": "degraded",
+    "status": "up",
     "uptime": "96.49%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.01%",
     "time": 449,
-    "timeDay": 1577,
-    "timeWeek": 3552,
-    "timeMonth": 1690,
+    "timeDay": 1500,
+    "timeWeek": 3523,
+    "timeMonth": 1687,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-24": 21,
@@ -519,7 +519,7 @@
       "2026-09-14": 68,
       "2026-09-21": 5,
       "2026-09-22": 107,
-      "2026-09-25": 15
+      "2026-09-25": 16
     }
   },
   {
