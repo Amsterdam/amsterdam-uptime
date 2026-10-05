@@ -306,10 +306,10 @@
     "slug": "geosearch",
     "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.61%",
     "time": 1529,
     "timeDay": 1722,
     "timeWeek": 1595,
@@ -413,7 +413,7 @@
       "2026-09-27": 111,
       "2026-09-29": 57,
       "2026-10-01": 59,
-      "2026-10-05": 3
+      "2026-10-05": 14
     }
   },
   {
@@ -421,12 +421,12 @@
     "url": "$SITE_URL_MAPSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mapserver",
-    "status": "up",
+    "status": "down",
     "uptime": "97.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 455,
     "timeDay": 399,
     "timeWeek": 451,
@@ -441,7 +441,8 @@
       "2026-01-10": 2,
       "2026-02-28": 7,
       "2026-03-01": 13,
-      "2026-03-21": 13
+      "2026-03-21": 13,
+      "2026-10-05": 4
     }
   },
   {
@@ -532,17 +533,17 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.65%",
-    "uptimeDay": "71.21%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "70.94%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.65%",
-    "time": 879,
-    "timeDay": 4062,
-    "timeWeek": 2618,
-    "timeMonth": 2101,
-    "timeYear": 879,
+    "time": 881,
+    "timeDay": 4175,
+    "timeWeek": 2659,
+    "timeMonth": 2114,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-10-23": 1,
       "2025-10-28": 11,
@@ -573,7 +574,7 @@
       "2026-10-02": 9,
       "2026-10-03": 173,
       "2026-10-04": 104,
-      "2026-10-05": 311
+      "2026-10-05": 315
     }
   }
 ]
