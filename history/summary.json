@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.99%",
     "time": 744,
@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "brp-kennisgvingen",
     "status": "up",
-    "uptime": "90.47%",
+    "uptime": "90.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.47%",
+    "uptimeYear": "90.48%",
     "time": 251,
     "timeDay": 404,
     "timeWeek": 385,
@@ -307,7 +307,7 @@
     "slug": "geosearch",
     "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "99.08%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "98.61%",
@@ -414,7 +414,7 @@
       "2026-09-29": 57,
       "2026-10-01": 59,
       "2026-10-05": 70,
-      "2026-10-06": 13
+      "2026-10-06": 27
     }
   },
   {
@@ -537,17 +537,17 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "43.77%",
-    "uptimeWeek": "83.28%",
+    "uptimeDay": "43.97%",
+    "uptimeWeek": "83.24%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.44%",
-    "time": 976,
-    "timeDay": 5626,
-    "timeWeek": 4086,
-    "timeMonth": 2560,
-    "timeYear": 976,
+    "time": 978,
+    "timeDay": 5718,
+    "timeWeek": 4106,
+    "timeMonth": 2570,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2025-10-23": 1,
       "2025-10-28": 11,
@@ -579,7 +579,7 @@
       "2026-10-03": 173,
       "2026-10-04": 104,
       "2026-10-05": 623,
-      "2026-10-06": 750
+      "2026-10-06": 753
     }
   }
 ]
