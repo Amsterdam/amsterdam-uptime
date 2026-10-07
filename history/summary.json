@@ -11,8 +11,8 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.99%",
     "time": 744,
-    "timeDay": 673,
-    "timeWeek": 1128,
+    "timeDay": 668,
+    "timeWeek": 1136,
     "timeMonth": 961,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 278,
-    "timeDay": 477,
-    "timeWeek": 481,
+    "timeDay": 478,
+    "timeWeek": 483,
     "timeMonth": 476,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 442,
-    "timeDay": 430,
-    "timeWeek": 416,
+    "timeDay": 416,
+    "timeWeek": 417,
     "timeMonth": 420,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "99.30%",
     "time": 449,
     "timeDay": 438,
-    "timeWeek": 416,
+    "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 448,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
     "uptimeYear": "99.97%",
     "time": 507,
     "timeDay": 469,
-    "timeWeek": 445,
+    "timeWeek": 447,
     "timeMonth": 451,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "uptimeYear": "90.49%",
     "time": 251,
     "timeDay": 380,
-    "timeWeek": 384,
+    "timeWeek": 386,
     "timeMonth": 379,
     "timeYear": 251,
     "dailyMinutesDown": {
@@ -537,17 +537,17 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "78.78%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "52.01%",
+    "uptimeWeek": "78.72%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.34%",
-    "time": 1014,
-    "timeDay": 5425,
-    "timeWeek": 4296,
-    "timeMonth": 2786,
-    "timeYear": 1014,
+    "time": 1017,
+    "timeDay": 5629,
+    "timeWeek": 4335,
+    "timeMonth": 2806,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-10-23": 1,
       "2025-10-28": 11,
@@ -580,7 +580,7 @@
       "2026-10-04": 104,
       "2026-10-05": 623,
       "2026-10-06": 848,
-      "2026-10-07": 381
+      "2026-10-07": 386
     }
   }
 ]
