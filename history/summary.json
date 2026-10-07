@@ -492,7 +492,7 @@
     "time": 461,
     "timeDay": 482,
     "timeWeek": 895,
-    "timeMonth": 1694,
+    "timeMonth": 1669,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-10-24": 21,
@@ -539,17 +539,16 @@
     "slug": "dataselectie",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "52.19%",
-    "uptimeWeek": "76.22%",
-    "uptimeMonth": "94.37%",
+    "uptimeDay": "53.33%",
+    "uptimeWeek": "76.11%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.31%",
-    "time": 1042,
-    "timeDay": 5407,
-    "timeWeek": 4456,
-    "timeMonth": 2864,
-    "timeYear": 1042,
+    "time": 1044,
+    "timeDay": 5409,
+    "timeWeek": 4465,
+    "timeMonth": 2874,
+    "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-03-21": 13,
       "2026-03-22": 43,
       "2026-03-23": 4,
       "2026-04-13": 463,
@@ -570,7 +569,7 @@
       "2026-10-04": 104,
       "2026-10-05": 623,
       "2026-10-06": 848,
-      "2026-10-07": 640
+      "2026-10-07": 650
     }
   }
 ]
