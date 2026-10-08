@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "brp-kennisgvingen",
     "status": "up",
-    "uptime": "90.50%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.50%",
+    "uptimeYear": "90.51%",
     "time": 251,
     "timeDay": 384,
     "timeWeek": 388,
@@ -537,16 +537,16 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "53.77%",
-    "uptimeWeek": "75.65%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "54.03%",
+    "uptimeWeek": "75.56%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.31%",
     "time": 1046,
-    "timeDay": 5457,
-    "timeWeek": 4470,
-    "timeMonth": 2880,
+    "timeDay": 5411,
+    "timeWeek": 4463,
+    "timeMonth": 2879,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2026-03-22": 10,
@@ -570,7 +570,7 @@
       "2026-10-05": 623,
       "2026-10-06": 848,
       "2026-10-07": 666,
-      "2026-10-08": 31
+      "2026-10-08": 40
     }
   }
 ]
