@@ -537,23 +537,23 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "56.14%",
-    "uptimeWeek": "74.70%",
-    "uptimeMonth": "94.18%",
+    "uptimeDay": "55.92%",
+    "uptimeWeek": "74.63%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.50%",
-    "time": 1167,
-    "timeDay": 5189,
-    "timeWeek": 4998,
-    "timeMonth": 3316,
-    "timeYear": 1167,
+    "time": 1168,
+    "timeDay": 5117,
+    "timeWeek": 4990,
+    "timeMonth": 3315,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-10-06": 418,
       "2026-10-07": 666,
       "2026-10-08": 540,
       "2026-10-09": 677,
-      "2026-10-10": 251
+      "2026-10-10": 258
     }
   }
 ]
