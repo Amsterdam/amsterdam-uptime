@@ -12,7 +12,7 @@
     "uptimeYear": "98.99%",
     "time": 745,
     "timeDay": 566,
-    "timeWeek": 825,
+    "timeWeek": 816,
     "timeMonth": 969,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
     "uptimeYear": "99.94%",
     "time": 281,
     "timeDay": 511,
-    "timeWeek": 490,
+    "timeWeek": 491,
     "timeMonth": 478,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
     "uptimeYear": "99.97%",
     "time": 442,
     "timeDay": 426,
-    "timeWeek": 420,
+    "timeWeek": 421,
     "timeMonth": 420,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "99.30%",
     "time": 449,
     "timeDay": 487,
-    "timeWeek": 466,
+    "timeWeek": 468,
     "timeMonth": 431,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
     "uptimeYear": "99.97%",
     "time": 508,
     "timeDay": 524,
-    "timeWeek": 494,
+    "timeWeek": 496,
     "timeMonth": 459,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -190,14 +190,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "brp-kennisgvingen",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.57%",
+    "uptimeYear": "90.58%",
     "time": 252,
     "timeDay": 403,
-    "timeWeek": 395,
+    "timeWeek": 396,
     "timeMonth": 380,
     "timeYear": 252,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.97%",
     "time": 439,
     "timeDay": 450,
-    "timeWeek": 427,
+    "timeWeek": 428,
     "timeMonth": 406,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
     "uptimeYear": "99.93%",
     "time": 266,
     "timeDay": 412,
-    "timeWeek": 408,
+    "timeWeek": 410,
     "timeMonth": 389,
     "timeYear": 266,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
     "uptimeYear": "98.60%",
     "time": 1539,
     "timeDay": 475,
-    "timeWeek": 1788,
+    "timeWeek": 1784,
     "timeMonth": 1787,
     "timeYear": 1525,
     "dailyMinutesDown": {
@@ -459,7 +459,7 @@
     "uptimeYear": "99.95%",
     "time": 463,
     "timeDay": 616,
-    "timeWeek": 598,
+    "timeWeek": 599,
     "timeMonth": 591,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -491,7 +491,7 @@
     "uptimeYear": "99.01%",
     "time": 463,
     "timeDay": 450,
-    "timeWeek": 906,
+    "timeWeek": 904,
     "timeMonth": 1671,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -537,23 +537,23 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "56.97%",
-    "uptimeWeek": "75.09%",
-    "uptimeMonth": "94.27%",
+    "uptimeDay": "56.09%",
+    "uptimeWeek": "74.96%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.50%",
-    "time": 1173,
-    "timeDay": 4836,
-    "timeWeek": 4933,
+    "time": 1174,
+    "timeDay": 4803,
+    "timeWeek": 4940,
     "timeMonth": 3319,
-    "timeYear": 1173,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2026-10-06": 282,
       "2026-10-07": 666,
       "2026-10-08": 540,
       "2026-10-09": 677,
-      "2026-10-10": 347
+      "2026-10-10": 360
     }
   }
 ]
