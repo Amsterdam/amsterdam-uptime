@@ -12,7 +12,7 @@
     "uptimeYear": "98.99%",
     "time": 745,
     "timeDay": 582,
-    "timeWeek": 827,
+    "timeWeek": 830,
     "timeMonth": 970,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
     "uptimeYear": "99.94%",
     "time": 281,
     "timeDay": 519,
-    "timeWeek": 493,
+    "timeWeek": 491,
     "timeMonth": 478,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
     "uptimeYear": "99.97%",
     "time": 442,
     "timeDay": 430,
-    "timeWeek": 422,
+    "timeWeek": 421,
     "timeMonth": 420,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "uptimeYear": "90.57%",
     "time": 252,
     "timeDay": 408,
-    "timeWeek": 397,
+    "timeWeek": 396,
     "timeMonth": 381,
     "timeYear": 252,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.97%",
     "time": 439,
     "timeDay": 453,
-    "timeWeek": 428,
+    "timeWeek": 427,
     "timeMonth": 407,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
     "uptimeYear": "99.93%",
     "time": 266,
     "timeDay": 416,
-    "timeWeek": 410,
+    "timeWeek": 409,
     "timeMonth": 389,
     "timeYear": 266,
     "dailyMinutesDown": {
@@ -307,13 +307,13 @@
     "slug": "geosearch",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "99.15%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.60%",
     "time": 1539,
     "timeDay": 554,
-    "timeWeek": 1790,
+    "timeWeek": 1804,
     "timeMonth": 1787,
     "timeYear": 1525,
     "dailyMinutesDown": {
@@ -430,7 +430,7 @@
     "uptimeYear": "99.98%",
     "time": 456,
     "timeDay": 501,
-    "timeWeek": 482,
+    "timeWeek": 481,
     "timeMonth": 472,
     "timeYear": 455,
     "dailyMinutesDown": {
@@ -491,7 +491,7 @@
     "uptimeYear": "99.01%",
     "time": 463,
     "timeDay": 505,
-    "timeWeek": 908,
+    "timeWeek": 913,
     "timeMonth": 1672,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -537,23 +537,23 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.50%",
-    "uptimeDay": "57.67%",
-    "uptimeWeek": "74.62%",
-    "uptimeMonth": "94.16%",
+    "uptimeDay": "57.44%",
+    "uptimeWeek": "74.72%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "99.50%",
-    "time": 1169,
+    "time": 1170,
     "timeDay": 4985,
-    "timeWeek": 4954,
-    "timeMonth": 3314,
-    "timeYear": 1169,
+    "timeWeek": 4966,
+    "timeMonth": 3316,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2026-10-06": 361,
+      "2026-10-06": 348,
       "2026-10-07": 666,
       "2026-10-08": 540,
       "2026-10-09": 677,
-      "2026-10-10": 316
+      "2026-10-10": 319
     }
   }
 ]
