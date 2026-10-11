@@ -12,7 +12,7 @@
     "uptimeYear": "98.99%",
     "time": 745,
     "timeDay": 513,
-    "timeWeek": 809,
+    "timeWeek": 812,
     "timeMonth": 969,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "uptimeYear": "90.59%",
     "time": 253,
     "timeDay": 351,
-    "timeWeek": 382,
+    "timeWeek": 381,
     "timeMonth": 380,
     "timeYear": 253,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.97%",
     "time": 439,
     "timeDay": 396,
-    "timeWeek": 423,
+    "timeWeek": 422,
     "timeMonth": 406,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
     "uptimeYear": "98.60%",
     "time": 1537,
     "timeDay": 429,
-    "timeWeek": 1756,
+    "timeWeek": 1771,
     "timeMonth": 1687,
     "timeYear": 1523,
     "dailyMinutesDown": {
@@ -459,7 +459,7 @@
     "uptimeYear": "99.95%",
     "time": 463,
     "timeDay": 570,
-    "timeWeek": 595,
+    "timeWeek": 594,
     "timeMonth": 590,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -491,7 +491,7 @@
     "uptimeYear": "99.01%",
     "time": 464,
     "timeDay": 430,
-    "timeWeek": 896,
+    "timeWeek": 901,
     "timeMonth": 1671,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -537,23 +537,23 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "degraded",
-    "uptime": "99.53%",
-    "uptimeDay": "62.28%",
-    "uptimeWeek": "76.41%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "99.53%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "59.18%",
+    "uptimeWeek": "75.68%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "99.52%",
     "time": 1209,
-    "timeDay": 4663,
-    "timeWeek": 5079,
-    "timeMonth": 3462,
+    "timeDay": 4640,
+    "timeWeek": 5082,
+    "timeMonth": 3461,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2026-10-07": 488,
       "2026-10-08": 540,
       "2026-10-09": 677,
       "2026-10-10": 532,
-      "2026-10-11": 144
+      "2026-10-11": 218
     }
   }
 ]
