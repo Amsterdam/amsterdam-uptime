@@ -1,7 +1,7 @@
 url: $SITE_URL_DATASELECTIE
-status: up
+status: degraded
 code: 200
-responseTime: 848
-lastUpdated: 2026-10-11T06:29:07.300Z
+responseTime: 3502
+lastUpdated: 2026-10-11T06:34:51.186Z
 startTime: 2025-10-23T15:00:05.432Z
 generator: Upptime <https://github.com/upptime/upptime>
