@@ -13,7 +13,7 @@
     "time": 741,
     "timeDay": 897,
     "timeWeek": 667,
-    "timeMonth": 984,
+    "timeMonth": 985,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-10-18": 37,
@@ -315,7 +315,7 @@
     "time": 1540,
     "timeDay": 391,
     "timeWeek": 2140,
-    "timeMonth": 1809,
+    "timeMonth": 1813,
     "timeYear": 1528,
     "dailyMinutesDown": {
       "2026-03-17": 47,
@@ -431,7 +431,7 @@
     "uptimeYear": "99.98%",
     "time": 456,
     "timeDay": 455,
-    "timeWeek": 494,
+    "timeWeek": 492,
     "timeMonth": 471,
     "timeYear": 455,
     "dailyMinutesDown": {
@@ -460,7 +460,7 @@
     "uptimeYear": "99.95%",
     "time": 467,
     "timeDay": 549,
-    "timeWeek": 623,
+    "timeWeek": 622,
     "timeMonth": 594,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -487,13 +487,13 @@
     "status": "up",
     "uptime": "96.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.01%",
     "time": 466,
     "timeDay": 479,
-    "timeWeek": 738,
-    "timeMonth": 1645,
+    "timeWeek": 499,
+    "timeMonth": 1648,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-10-24": 21,
@@ -538,23 +538,23 @@
     "url": "$SITE_URL_DATASELECTIE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataselectie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "52.52%",
-    "uptimeWeek": "72.64%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "53.33%",
+    "uptimeWeek": "72.82%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.46%",
-    "time": 1304,
-    "timeDay": 4342,
-    "timeWeek": 4992,
-    "timeMonth": 3723,
-    "timeYear": 1304,
+    "time": 1306,
+    "timeDay": 4438,
+    "timeWeek": 4899,
+    "timeMonth": 3730,
+    "timeYear": 1306,
     "dailyMinutesDown": {
-      "2026-10-09": 383,
+      "2026-10-09": 361,
       "2026-10-10": 532,
       "2026-10-11": 869,
       "2026-10-12": 662,
-      "2026-10-13": 316
+      "2026-10-13": 320
     }
   }
 ]
